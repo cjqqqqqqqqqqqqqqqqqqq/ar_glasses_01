@@ -1,0 +1,9 @@
+flask
+opencv-python
+numpy
+SpeechRecognition
+pyaudio
+pocketsphinx
+pillow
+geopy
+folium 
